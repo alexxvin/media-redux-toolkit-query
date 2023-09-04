@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Jan Dooley",
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Refined Frozen Gloves",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Rubber Car",
+      "id": 13
+    },
+    {
+      "userId": 2,
+      "title": "Electronic Plastic Salad",
+      "id": 14
+    },
+    {
+      "userId": 2,
+      "title": "Gorgeous Frozen Bike",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Metal Pants",
+      "id": 16
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8828633697222656",
+      "id": 1
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2195976276148224",
+      "id": 2
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1348111777660928",
+      "id": 3
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=639226123124736",
+      "id": 4
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6166337390903296",
+      "id": 5
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/640/480?lock=7937778155257856",
+      "id": 6
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/640/480?lock=624637442523136",
+      "id": 8
+    },
+    {
+      "albumId": 15,
+      "url": "https://picsum.photos/seed/tca33JOWHn/640/480",
+      "id": 9
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/640/480?lock=8127549257285632",
+      "id": 10
+    },
+    {
+      "albumId": 14,
+      "url": "https://picsum.photos/seed/ZcdlLXrXQ/640/480",
+      "id": 11
+    }
+  ]
+}
